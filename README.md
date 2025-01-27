@@ -23,7 +23,7 @@ The checklist merely indicates if I have read (and appropriately understood) the
 - [ ] [Transformer visualization via dictionary learning: contextualized embedding as linear superposition of transformer factors (2023)](https://arxiv.org/pdf/2103.15949)
 - [ ] [Codebook features: Sparse and Discrete interpretability for neural networks (2023)](https://arxiv.org/pdf/2310.17230)
 - [x] [**YouTube**: 3Blue1Brown - visual explanation of LLM and transformers (series)](https://www.youtube.com/watch?v=wjZofJX0v4M)
-- [ ] [**YouTube**: Welch Labs - Dark matter of AI](https://www.youtube.com/watch?v=UGO_Ehywuxc)
+- [x] [**YouTube**: Welch Labs - Dark matter of AI](https://www.youtube.com/watch?v=UGO_Ehywuxc)
 - [ ] [**OpenAI**: LLM can explain neurons in LLM](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
 - [ ] [Efficient Estimation of Word Representation in Vector Space (2013)](https://arxiv.org/pdf/1301.3781)
 - [ ] [**DeepMind**: Improving Dictionary Learning with Gated SAE's](https://arxiv.org/pdf/2404.16014)
