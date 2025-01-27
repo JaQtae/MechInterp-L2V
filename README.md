@@ -27,6 +27,8 @@ MSc. Human-Centered Artificial Intelligence, DTU Compute anno 2025. This concern
 - [DeepMind: Improving Dictionary Learning with Gated SAE's](https://arxiv.org/pdf/2404.16014)
 - [Improving SAE's by SQRT-L1 and Removing lowest activating features (article)](https://www.lesswrong.com/posts/YiGs8qJ8aNBgwt2YN/improving-sae-s-by-sqrt-ing-l1-and-removing-lowest)
 - [Scratchpads: Show your word - intermediate computation with LLM's (used in Anthropic) (2021)](https://arxiv.org/pdf/2112.00114)
+- [Neel Nhanda: An opinionated list of favourite papers v2 (2024)](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite)
+- [GitHub with MechInterp in LLM's - code and paper references](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
 
 
 
