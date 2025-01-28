@@ -10,6 +10,7 @@ The checklist merely indicates if I have read (and appropriately understood) the
 
 - [ ] [**Anthropic**: Update on SAE training regime(2024)](https://transformer-circuits.pub/2024/april-update/index.html#training-saes)
 - [ ] [**Anthropic**: Toy Models of Superposition (2022)](https://transformer-circuits.pub/2022/toy_model/index.html)
+- [ ] [Sparse Crosscoders for Cross-Layer Features and Model Diffing (2024)](https://transformer-circuits.pub/2024/crosscoders/index.html)
 - [x] [**Chris Olah** - Dark Matter of AI - MechInterp (2024)](https://transformer-circuits.pub/2024/july-update/index.html#dark-matter)
 - [ ] [Privileged Bases in Transformer Residual Stream (2023)](https://transformer-circuits.pub/2023/privileged-basis/index.html)
 - [x] [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)
