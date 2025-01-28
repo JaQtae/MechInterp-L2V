@@ -1,4 +1,3 @@
-# Master
 MSc. Human-Centered Artificial Intelligence, DTU Compute anno 2025. This concerns applying the SAE interpretability idea to the Life2Vec model and scrutinizing its inner workings and if they are indeed interpretable.
 
 ### Primary papers:
