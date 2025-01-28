@@ -1,16 +1,16 @@
 MSc. Human-Centered Artificial Intelligence, DTU Compute anno 2025. This concerns applying the SAE interpretability idea to the Life2Vec model and scrutinizing its inner workings and if they are indeed interpretable.
 
 ### Primary papers:
-1. [Anthropic: Towards Monosemanticity (2023)](https://transformer-circuits.pub/2023/monosemantic-features)
-2. [Anthropic: Scaling Monosemanticity (2024 follow-up)](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
-3. [Life2Vec (Nature): Using sequences of life-events to predict human lives (2023)](https://www.nature.com/articles/s43588-023-00573-5)
+- [x] [Anthropic: Towards Monosemanticity (2023)](https://transformer-circuits.pub/2023/monosemantic-features)
+- [x] [Anthropic: Scaling Monosemanticity (2024 follow-up)](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
+- [ ] [Life2Vec (Nature): Using sequences of life-events to predict human lives (2023)](https://www.nature.com/articles/s43588-023-00573-5)
    
 # Resources
 The checklist merely indicates if I have read (and appropriately understood) the subject matter of the related resource.
 
-- [x] [**Anthropic**: Update on SAE training regime(2024)](https://transformer-circuits.pub/2024/april-update/index.html#training-saes)
-- [x] [**Anthropic**: Toy Models of Superposition (2022)](https://transformer-circuits.pub/2022/toy_model/index.html)
-- [ ] [**Chris Olah** - Dark Matter of AI - MechInterp (2024)](https://transformer-circuits.pub/2024/july-update/index.html#dark-matter)
+- [ ] [**Anthropic**: Update on SAE training regime(2024)](https://transformer-circuits.pub/2024/april-update/index.html#training-saes)
+- [ ] [**Anthropic**: Toy Models of Superposition (2022)](https://transformer-circuits.pub/2022/toy_model/index.html)
+- [x] [**Chris Olah** - Dark Matter of AI - MechInterp (2024)](https://transformer-circuits.pub/2024/july-update/index.html#dark-matter)
 - [ ] [Privileged Bases in Transformer Residual Stream (2023)](https://transformer-circuits.pub/2023/privileged-basis/index.html)
 - [x] [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)
 - [ ] [The Geometry of Concepts: Sparse Autoencoder Feature Structure (2024)](https://arxiv.org/abs/2410.19750)
