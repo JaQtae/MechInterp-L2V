@@ -32,7 +32,16 @@ The checklist merely indicates if I have read (and appropriately understood) the
 - [ ] [**Neel Nhanda**: An opinionated list of favourite papers v2 (2024)](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite)
 - [ ] [GitHub with MechInterp in LLM's - code and paper references](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
 
-
+### Additional buzzwords, open questions, and stuff to look into
+- *k*-top SAE, Gated SAE, JumpReLU (w.r.t. expensiveness of training SAE's, possibly also just better?? ~Nanda)
+- GeLU > ReLU?
+- SAE performance is hard to measure... How do people do it?
+- Idea/thought : L2V embedding map looked somewhat periodic -- is there inherent structure here (t-SNE?) (probably not, very far fetched...)
+- Causality, introspection regarding model specifications of L2V and relating to the overarching use of SAE seen so far...
+- Byte-paired tokenization (find paper, understand it...)
+- If L2V used is BERT, find paper, understand it more thoroughly...
+- Deeper understanding on the whole circuit phenomenon regarding *QK* and *OV*, allegedly how you can "decompose" and "disentangle" the transformer model
+- **Does L2V have MLP???** or how/where do we get the neuron activations from?
 
 
 
