@@ -13,7 +13,7 @@ The checklist merely indicates if I have read (and appropriately understood) the
 - [x] [**Anthropic**: Toy Models of Superposition (2022)](https://transformer-circuits.pub/2022/toy_model/index.html)
 - [ ] [**Chris Olah** - Dark Matter of AI - MechInterp (2024)](https://transformer-circuits.pub/2024/july-update/index.html#dark-matter)
 - [ ] [Privileged Bases in Transformer Residual Stream (2023)](https://transformer-circuits.pub/2023/privileged-basis/index.html)
-- [ ] [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)
+- [x] [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)
 - [ ] [The Geometry of Concepts: Sparse Autoencoder Feature Structure (2024)](https://arxiv.org/abs/2410.19750)
 - [ ] [Scaling and Evaluating SAE's (2024)](https://arxiv.org/pdf/2406.04093)
 - [ ] [**Neel Nanda** - MechInterp (SAE) podcast (2024)](https://podcasts.apple.com/dk/podcast/neel-nanda-mechanistic-interpretability-sparse-autoencoders/id1510472996?i=1000679600572)
