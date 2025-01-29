@@ -7,6 +7,7 @@ MSc. Human-Centered Artificial Intelligence, DTU Compute anno 2025. This concern
    
 # Resources
 The checklist indicates if I have read (and appropriately understood) the subject matter of the related resource.
+
 📖 Indiciates what I am currently reading.
 
 - [ ] 📖[**Anthropic**: Update on SAE training regime(2024)](https://transformer-circuits.pub/2024/april-update/index.html#training-saes)
