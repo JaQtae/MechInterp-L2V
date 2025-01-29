@@ -4,6 +4,7 @@ MSc. Human-Centered Artificial Intelligence, DTU Compute anno 2025. This concern
 - [x] [Anthropic: Towards Monosemanticity (2023)](https://transformer-circuits.pub/2023/monosemantic-features)
 - [x] [Anthropic: Scaling Monosemanticity (2024 follow-up)](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
 - [ ] 📖[Life2Vec (Nature): Using sequences of life-events to predict human lives (2023)](https://www.nature.com/articles/s43588-023-00573-5)
+   - [ ] [BERT - Bidirectional Encoder Representation of Transformers](https://arxiv.org/pdf/1810.04805) 
    
 # Resources
 The checklist indicates if I have read (and appropriately understood) the subject matter of the related resource.
