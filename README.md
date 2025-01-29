@@ -35,7 +35,7 @@ The checklist indicates if I have read (and appropriately understood) the subjec
 - [ ] [Scratchpads: Show your work - intermediate computation with LLM's (used in Anthropic) (2021)](https://arxiv.org/pdf/2112.00114)
 - [ ] 📖[**Neel Nhanda**: An opinionated list of favourite papers v2 (2024)](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite)
 - [ ] [GitHub with MechInterp in LLM's - code and paper references](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
-
+- [x] [Decoding the Thought Vector (early work on sparsity) (2016)](https://gabgoh.github.io/ThoughtVectors/)
 ### Additional buzzwords, open questions, and stuff to look into
 - *k*-top SAE, Gated SAE, JumpReLU (w.r.t. expensiveness of training SAE's, possibly also just better?? ~Nanda)
 - GeLU > ReLU?
