@@ -13,6 +13,7 @@ The checklist merely indicates if I have read (and appropriately understood) the
 - [ ] [Sparse Crosscoders for Cross-Layer Features and Model Diffing (2024)](https://transformer-circuits.pub/2024/crosscoders/index.html)
 - [x] [**Chris Olah** - Dark Matter of AI - MechInterp (2024)](https://transformer-circuits.pub/2024/july-update/index.html#dark-matter)
 - [ ] [Privileged Bases in Transformer Residual Stream (2023)](https://transformer-circuits.pub/2023/privileged-basis/index.html)
+- [ ] [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
 - [x] [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)
 - [ ] [The Geometry of Concepts: Sparse Autoencoder Feature Structure (2024)](https://arxiv.org/abs/2410.19750)
 - [ ] [Scaling and Evaluating SAE's (2024)](https://arxiv.org/pdf/2406.04093)
