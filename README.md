@@ -37,6 +37,9 @@ The checklist indicates if I have read (and appropriately understood) the subjec
 - [ ] [GitHub with MechInterp in LLM's - code and paper references](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
 - [x] [Decoding the Thought Vector (early work on sparsity) (2016)](https://gabgoh.github.io/ThoughtVectors/)
 - [ ] [Multimodal neurons in ANN (fires regardless of modality) (2021)](https://distill.pub/2021/multimodal-neurons/)
+
+- [x] [Comments and counter-points to Anthropic's paper](https://www.lesswrong.com/posts/zzmhsKx5dBpChKhry/comments-on-anthropic-s-scaling-monosemanticity)
+- [ ] 
 ### Additional buzzwords, open questions, and stuff to look into
 - *k*-top SAE, Gated SAE, JumpReLU (w.r.t. expensiveness of training SAE's, possibly also just better?? ~Nanda)
 - GeLU > ReLU?
@@ -47,6 +50,9 @@ The checklist indicates if I have read (and appropriately understood) the subjec
 - If L2V used is BERT, find paper, understand it more thoroughly...
 - Deeper understanding on the whole circuit phenomenon regarding *QK* and *OV*, allegedly how you can "decompose" and "disentangle" the transformer model
 - **Does L2V have MLP???** or how/where do we get the neuron activations from?
+
+### SAE?
+- [GitHub of SAE training code])https://github.com/ai-safety-foundation/sparse_autoencoder)
 
 
 
