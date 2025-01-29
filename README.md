@@ -52,7 +52,7 @@ The checklist indicates if I have read (and appropriately understood) the subjec
 - **Does L2V have MLP???** or how/where do we get the neuron activations from?
 
 ### SAE?
-- [GitHub of SAE training code])https://github.com/ai-safety-foundation/sparse_autoencoder)
+- [GitHub of SAE training code](https://github.com/ai-safety-foundation/sparse_autoencoder)
 
 
 
