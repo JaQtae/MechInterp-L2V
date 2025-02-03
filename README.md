@@ -3,7 +3,7 @@ MSc. Human-Centered Artificial Intelligence, DTU Compute anno 2025. This concern
 ### Primary papers:
 - [x] [Anthropic: Towards Monosemanticity (2023)](https://transformer-circuits.pub/2023/monosemantic-features)
 - [x] [Anthropic: Scaling Monosemanticity (2024 follow-up)](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
-- [ ] 📖[Life2Vec (Nature): Using sequences of life-events to predict human lives (2023)](https://www.nature.com/articles/s43588-023-00573-5)
+- [x] 📖[(**First read-through (65%)**)Life2Vec (Nature): Using sequences of life-events to predict human lives (2023)](https://www.nature.com/articles/s43588-023-00573-5)
    - [ ] [BERT - Bidirectional Encoder Representation of Transformers (Google, 2018)](https://arxiv.org/pdf/1810.04805) 
    
 # Resources
@@ -16,7 +16,7 @@ The checklist indicates if I have read (and appropriately understood) the subjec
 - [ ] [Sparse Crosscoders for Cross-Layer Features and Model Diffing (2024)](https://transformer-circuits.pub/2024/crosscoders/index.html)
 - [x] [**Chris Olah** - Dark Matter of AI - MechInterp (2024)](https://transformer-circuits.pub/2024/july-update/index.html#dark-matter)
 - [ ] [Privileged Bases in Transformer Residual Stream (2023)](https://transformer-circuits.pub/2023/privileged-basis/index.html)
-- [ ] [**Chris Olah** - Zoom In: An Introduction to Circuits (2020)](https://distill.pub/2020/circuits/zoom-in/)
+- [x] [**Chris Olah** - Zoom In: An Introduction to Circuits (2020)](https://distill.pub/2020/circuits/zoom-in/)
 - [x] [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)
 - [ ] [The Geometry of Concepts: Sparse Autoencoder Feature Structure (2024)](https://arxiv.org/abs/2410.19750)
 - [ ] [Scaling and Evaluating SAE's (2024)](https://arxiv.org/pdf/2406.04093)
