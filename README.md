@@ -24,7 +24,7 @@ The checklist indicates if I have read (and appropriately understood) the subjec
 - [ ] [**DeepMind** - Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2 (2024)](https://arxiv.org/abs/2408.05147)
 - [ ] [Trading off performance and human oversight in algorithmic policy: evidence from Danish college admissions (2024, Magnus)](https://arxiv.org/abs/2411.15348)
 - [ ] [SAE's find highly interpretable features in LLM's (2023)](https://arxiv.org/pdf/2309.08600)
-- [ ] [Transformer visualization via dictionary learning: contextualized embedding as linear superposition of transformer factors (2023)](https://arxiv.org/pdf/2103.15949)
+- [ ] [(**BERT?**)Transformer visualization via dictionary learning: contextualized embedding as linear superposition of transformer factors (2023)](https://arxiv.org/pdf/2103.15949)
 - [ ] [Codebook features: Sparse and Discrete interpretability for neural networks (2023)](https://arxiv.org/pdf/2310.17230)
 - [x] [**YouTube**: 3Blue1Brown - visual explanation of LLM and transformers (series)](https://www.youtube.com/watch?v=wjZofJX0v4M)
 - [x] [**YouTube**: Welch Labs - Dark matter of AI](https://www.youtube.com/watch?v=UGO_Ehywuxc)
