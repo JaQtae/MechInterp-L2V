@@ -52,7 +52,7 @@ The checklist indicates if I have read (and appropriately understood) the subjec
 
 ### SAE?
 - [GitHub of SAE training code](https://github.com/ai-safety-foundation/sparse_autoencoder)
-
+- [ARENA course, some exercises etc. recommended by Neel](https://arena-chapter0-fundamentals.streamlit.app/)
 
 
 
