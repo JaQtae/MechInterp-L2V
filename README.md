@@ -38,7 +38,7 @@ The checklist indicates if I have read (and appropriately understood) the subjec
 - [x] [Decoding the Thought Vector (early work on sparsity) (2016)](https://gabgoh.github.io/ThoughtVectors/)
 - [ ] [Multimodal neurons in ANN (fires regardless of modality) (2021)](https://distill.pub/2021/multimodal-neurons/)
 - [x] [Comments and counter-points to Anthropic's paper](https://www.lesswrong.com/posts/zzmhsKx5dBpChKhry/comments-on-anthropic-s-scaling-monosemanticity)
-- [ ] 📖[Interpretability Illusion for BERT (2021) - First(?) idea of dataset-level neuron levels in model. Referenced in other papers (?), i.e. paraphrasing that superposition is a thing I think](https://arxiv.org/pdf/2104.07143)
+- [x] 📖[Interpretability Illusion for BERT (2021) - First(?) idea of dataset-level neuron levels in model. Referenced in other papers (?), i.e. paraphrasing that superposition is a thing I think](https://arxiv.org/pdf/2104.07143)
 - [ ] 📖[[Interim research report] Taking features out of superposition with sparse autoencoders ](https://www.lesswrong.com/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition)
 ### Additional buzzwords, open questions, and stuff to look into
 - *k*-top SAE, Gated SAE, JumpReLU (w.r.t. expensiveness of training SAE's, possibly also just better?? ~Nanda)
