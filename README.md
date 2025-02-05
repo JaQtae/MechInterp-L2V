@@ -3,8 +3,8 @@ MSc. Human-Centered Artificial Intelligence, DTU Compute anno 2025. This concern
 ### Primary papers:
 - [x] [Anthropic: Towards Monosemanticity (2023)](https://transformer-circuits.pub/2023/monosemantic-features)
 - [x] [Anthropic: Scaling Monosemanticity (2024 follow-up)](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
-- [x] 📖[(**First read-through (65%)**)Life2Vec (Nature): Using sequences of life-events to predict human lives (2023)](https://www.nature.com/articles/s43588-023-00573-5)
-   - [ ] [BERT - Bidirectional Encoder Representation of Transformers (Google, 2018)](https://arxiv.org/pdf/1810.04805) 
+- [x] [(**First read-through (65%)**)Life2Vec (Nature): Using sequences of life-events to predict human lives (2023)](https://www.nature.com/articles/s43588-023-00573-5)
+   - [ ] 📖[BERT - Bidirectional Encoder Representation of Transformers (Google, 2018)](https://arxiv.org/pdf/1810.04805) 
    
 # Resources
 The checklist indicates if I have read (and appropriately understood) the subject matter of the related resource.
@@ -29,7 +29,7 @@ The checklist indicates if I have read (and appropriately understood) the subjec
 - [x] [**YouTube**: 3Blue1Brown - visual explanation of LLM and transformers (series)](https://www.youtube.com/watch?v=wjZofJX0v4M)
 - [x] [**YouTube**: Welch Labs - Dark matter of AI](https://www.youtube.com/watch?v=UGO_Ehywuxc)
 - [ ] [**OpenAI**: LLM can explain neurons in LLM](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
-- [ ] [Efficient Estimation of Word Representation in Vector Space (2013)](https://arxiv.org/pdf/1301.3781)
+- [ ] [**Word2Vec** - Efficient Estimation of Word Representation in Vector Space (2013)](https://arxiv.org/pdf/1301.3781)
 - [ ] [**DeepMind**: Improving Dictionary Learning with Gated SAE's](https://arxiv.org/pdf/2404.16014)
 - [ ] [Improving SAE's by SQRT-L1 and Removing lowest activating features (article)](https://www.lesswrong.com/posts/YiGs8qJ8aNBgwt2YN/improving-sae-s-by-sqrt-ing-l1-and-removing-lowest)
 - [ ] [Scratchpads: Show your work - intermediate computation with LLM's (used in Anthropic) (2021)](https://arxiv.org/pdf/2112.00114)
@@ -38,8 +38,8 @@ The checklist indicates if I have read (and appropriately understood) the subjec
 - [x] [Decoding the Thought Vector (early work on sparsity) (2016)](https://gabgoh.github.io/ThoughtVectors/)
 - [ ] [Multimodal neurons in ANN (fires regardless of modality) (2021)](https://distill.pub/2021/multimodal-neurons/)
 - [x] [Comments and counter-points to Anthropic's paper](https://www.lesswrong.com/posts/zzmhsKx5dBpChKhry/comments-on-anthropic-s-scaling-monosemanticity)
-- [ ] [Interpretability Illusion for BERT (2021) - First(?) idea of dataset-level neuron levels in model. Referenced in other papers (?), i.e. paraphrasing that superposition is a thing I think](https://arxiv.org/pdf/2104.07143)
-- [ ] [[Interim research report] Taking features out of superposition with sparse autoencoders ](https://www.lesswrong.com/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition)
+- [ ] 📖[Interpretability Illusion for BERT (2021) - First(?) idea of dataset-level neuron levels in model. Referenced in other papers (?), i.e. paraphrasing that superposition is a thing I think](https://arxiv.org/pdf/2104.07143)
+- [ ] 📖[[Interim research report] Taking features out of superposition with sparse autoencoders ](https://www.lesswrong.com/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition)
 ### Additional buzzwords, open questions, and stuff to look into
 - *k*-top SAE, Gated SAE, JumpReLU (w.r.t. expensiveness of training SAE's, possibly also just better?? ~Nanda)
 - GeLU > ReLU?
