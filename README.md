@@ -28,10 +28,10 @@ The checklist indicates if I have read (and appropriately understood) the subjec
 - [ ] [Codebook features: Sparse and Discrete interpretability for neural networks (2023)](https://arxiv.org/pdf/2310.17230)
 - [x] [**YouTube**: 3Blue1Brown - visual explanation of LLM and transformers (series)](https://www.youtube.com/watch?v=wjZofJX0v4M)
 - [x] [**YouTube**: Welch Labs - Dark matter of AI](https://www.youtube.com/watch?v=UGO_Ehywuxc)
-- [ ] [**OpenAI**: LLM can explain neurons in LLM](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
+- [ ] [**OpenAI**: LLM can explain neurons in LLM (2023)](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
 - [ ] [**Word2Vec** - Efficient Estimation of Word Representation in Vector Space (2013)](https://arxiv.org/pdf/1301.3781)
-- [ ] [**DeepMind**: Improving Dictionary Learning with Gated SAE's](https://arxiv.org/pdf/2404.16014)
-- [ ] [Improving SAE's by SQRT-L1 and Removing lowest activating features (article)](https://www.lesswrong.com/posts/YiGs8qJ8aNBgwt2YN/improving-sae-s-by-sqrt-ing-l1-and-removing-lowest)
+- [ ] [**DeepMind**: Improving Dictionary Learning with Gated SAE's (2024)](https://arxiv.org/pdf/2404.16014)
+- [ ] [Improving SAE's by SQRT-L1 and Removing lowest activating features (article, 2024)](https://www.lesswrong.com/posts/YiGs8qJ8aNBgwt2YN/improving-sae-s-by-sqrt-ing-l1-and-removing-lowest)
 - [ ] [Scratchpads: Show your work - intermediate computation with LLM's (used in Anthropic) (2021)](https://arxiv.org/pdf/2112.00114)
 - [ ] 📖[**Neel Nhanda**: An opinionated list of favourite papers v2 (2024)](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite)
 - [ ] [GitHub with MechInterp in LLM's - code and paper references](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
@@ -39,7 +39,8 @@ The checklist indicates if I have read (and appropriately understood) the subjec
 - [ ] [Multimodal neurons in ANN (fires regardless of modality) (2021)](https://distill.pub/2021/multimodal-neurons/)
 - [x] [Comments and counter-points to Anthropic's paper](https://www.lesswrong.com/posts/zzmhsKx5dBpChKhry/comments-on-anthropic-s-scaling-monosemanticity)
 - [x] 📖[Interpretability Illusion for BERT (2021) - First(?) idea of dataset-level neuron levels in model. Referenced in other papers (?), i.e. paraphrasing that superposition is a thing I think](https://arxiv.org/pdf/2104.07143)
-- [ ] 📖[[Interim research report] Taking features out of superposition with sparse autoencoders ](https://www.lesswrong.com/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition)
+- [ ] 📖[[Interim research report] Taking features out of superposition with sparse autoencoders (2022)](https://www.lesswrong.com/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition)
+- [ ] [Grammar of Life - Large Language Models Share Representations of Latent Grammatical Concepts Across Typologically Diverse Languages (2025)](https://arxiv.org/pdf/2501.06346)
 ### Additional buzzwords, open questions, and stuff to look into
 - *k*-top SAE, Gated SAE, JumpReLU (w.r.t. expensiveness of training SAE's, possibly also just better?? ~Nanda)
 - GeLU > ReLU?
