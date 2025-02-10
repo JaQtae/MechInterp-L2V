@@ -6,7 +6,7 @@ This repository collects papers and resources related to applying the SAE interp
 
 ## Primary Papers
 
-The table below tracks your primary reading list. For each paper, you can mark whether you have finished reading or are currently reading it, add a brief description of its key points, and provide a clickable title with the publication date in parentheses.
+The following papers are the primary ones contributing to the thesis and its foundational principles:
 
 | Status       | Paper Title (Year)                                                                                                                                                                      | Description                                     | Link                                                                                                         |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -19,7 +19,7 @@ The table below tracks your primary reading list. For each paper, you can mark w
 
 ## Resources
 
-This section includes additional readings and materials related to Mechanistic Interpretability using Sparse Autoencoders on LLMs/Transformers. The checklist helps you track progress—use `[x]` for finished readings and `[ ]` for those in progress (📖 indicates “currently reading”). Feel free to add a brief description to capture the primary insights from each resource.
+Materials related to Mechanistic Interpretability using Sparse Autoencoders on LLMs/Transformers. The checklist helps keeping track of progress  (📖 indicates “currently reading”). A brief description to capture the primary insights from each resource is available.
 
 | Status       | Resource Title (Year/Info)                                                                                                                                                              | Description                                     | Link                                                                                                         |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
