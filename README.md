@@ -58,15 +58,13 @@ Materials related to Mechanistic Interpretability using Sparse Autoencoders on L
 
 ## Additional Buzzwords, Open Questions, and Explorations
 
-- *k*-top SAE, Gated SAE, JumpReLU (w.r.t. the expensiveness of training SAE's; possibly also yielding better performance — per Neel’s suggestions)
-- GeLU vs. ReLU: Which activation function works best in practice?
-- Measuring SAE performance: What are the most effective evaluation metrics?
-- Investigate potential periodicity in Life2Vec embedding maps (e.g., via t-SNE) and any inherent structure.
-- Explore causality and model introspection in Life2Vec, especially in relation to SAE usage.
-- Understand Byte-paired tokenization: Find relevant papers and assess its impact.
-- If Life2Vec employs BERT, explore the underlying paper for deeper insights.
+- *k*-top SAE, Gated SAE, JumpReLU (w.r.t. the expensiveness of training SAE's; possibly also yielding better performance — per Neel’s suggestions Gated is the way to go)
+- GeLU vs. ReLU: Which activation function works best in practice? (Neel says GeLU...)
+- Measuring SAE performance: What are the most effective evaluation metrics? (Huben email sources, his input is to focus on how you can evaluate the features)
+- Understand Byte-paired tokenization: Find relevant papers and assess its impact. (Used in tokenization?
 - Delve into transformer circuits: How can QK and OV be “decomposed” and “disentangled”?
 - **Open Question:** Does Life2Vec include an MLP? If not, how and where are the neuron activations obtained?
+- Is autointerpretability possible? Is it good? Anyhow, how is it possible to see what maximally activates a specific feature based on input for L2V???
 
 ---
 
