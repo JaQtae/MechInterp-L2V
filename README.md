@@ -61,7 +61,7 @@ Materials related to Mechanistic Interpretability using Sparse Autoencoders on L
 
 ## Additional Buzzwords, Open Questions, and Explorations
 
-- *k*-top SAE, Gated SAE, JumpReLU (w.r.t. the expensiveness of training SAE's; possibly also yielding better performance — per Neel’s suggestions Gated is the way to go)
+- *k*-top SAE, Gated SAE, JumpReLU (per Neel’s suggestions Gated is the way to go? See comments on papers. (Pros/Cons: Resampling, reconstruction vs sparsity, L0-like (L1) or L0 (pseudo-derivative))
   - Gated SAE's are better than what Anthropic did, because they avoid the bias introduced from L1 w.r.t. harming L2. (Rajamanoharan et al. (2024)) 
 - GeLU vs. ReLU: Which activation function works best in practice? (Neel says GeLU...)
 - Measuring SAE performance: What are the most effective evaluation metrics? (Huben email sources, his input is to focus on how you can evaluate the features)
