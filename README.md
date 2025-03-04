@@ -71,6 +71,7 @@ Materials related to Mechanistic Interpretability using Sparse Autoencoders on L
 - Is autointerpretability possible? Is it good? Anyhow, how is it possible to see what maximally activates a specific feature based on input for L2V???
 - [Huben] Check if your features serve as a classifier for an external set of interpretable concepts, see [his work](https://www.lesswrong.com/posts/BduCMgmjJnCtc7jKc/research-report-sparse-autoencoders-find-only-9-180-board), [Karvonen et al.](https://arxiv.org/abs/2408.00113), and [Gao et al., section 4.2](https://arxiv.org/pdf/2406.04093)
 - [Huben] Find a way to represent your features so that their usefulness is immediately visible, see e.g. [his attempt](https://www.lesswrong.com/posts/f7gd7riceJPaPKkNS/saes-you-can-see-applying-sparse-autoencoders-to-clustering) or [Anthropic's graphs](https://transformer-circuits.pub/2024/scaling-monosemanticity/#:~:text=highly%20consistent%20with%20the%20proposed%20interpretation.).
+- [Toy Model Comment] States Linear-Algebra way to deem leverage or "efficiently packing" the dimensionality of all features s.t. empirically they add up to the number of embedding dimensions - he explains why this is natural w.r.t. rank/covariance/lemma from numerical algebra
 
 ---
 
