@@ -79,3 +79,9 @@ Materials related to Mechanistic Interpretability using Sparse Autoencoders on L
 
 - [GitHub of SAE training code](https://github.com/ai-safety-foundation/sparse_autoencoder)
 - [ARENA course and exercises (recommended by Neel)](https://arena-chapter0-fundamentals.streamlit.app/)
+
+### Introduction key points
+- Motivate subject - clear and intuitive distinction between holisitic, aggregated view of L2V vs. detailed, granular exploration of that model. L2V macroscopic <-> SAE microscopic "peer into the DNA of L2V" methaphorically. Uncover nuanced, latent features with meaningful interpretations that govern individual life trajectores (or something along these lines)
+- Anthropic, L2V, need for trust/reliability/safety/alignment of models as they increase in capacity and complexity ➡️ Mechanistic Interpretability goals, definitions, perspective, contrast to post-hoc methods (attention viz, gradient feature attribution, which dont yield mechanistic insights) ➡️ Superposition and polysemantic neurons, disentangling ➡️ How? SAE's; What are they and where do they come from (sparsity) ➡️challenges and related interp methods?
+- Some stuff from L0->L1->L2 norm on the unit circle/rectangle etc in terms of promoting sparsity (shown ive learned this before, more context)
+- 
