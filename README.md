@@ -73,6 +73,7 @@ Materials related to Mechanistic Interpretability using Sparse Autoencoders on L
 - [Huben] Check if your features serve as a classifier for an external set of interpretable concepts, see [his work](https://www.lesswrong.com/posts/BduCMgmjJnCtc7jKc/research-report-sparse-autoencoders-find-only-9-180-board), [Karvonen et al.](https://arxiv.org/abs/2408.00113), and [Gao et al., section 4.2](https://arxiv.org/pdf/2406.04093)
 - [Huben] Find a way to represent your features so that their usefulness is immediately visible, see e.g. [his attempt](https://www.lesswrong.com/posts/f7gd7riceJPaPKkNS/saes-you-can-see-applying-sparse-autoencoders-to-clustering) or [Anthropic's graphs](https://transformer-circuits.pub/2024/scaling-monosemanticity/#:~:text=highly%20consistent%20with%20the%20proposed%20interpretation.).
 - [Toy Model Comment] States Linear-Algebra way to deem leverage or "efficiently packing" the dimensionality of all features s.t. empirically they add up to the number of embedding dimensions - he explains why this is natural w.r.t. rank/covariance/lemma from numerical algebra
+- [LLAMA SCOPE: EXTRACTING MILLIONS OF FEATURES FROM LLAMA-3.1-8B WITH SPARSE AUTOENCODERS](https://arxiv.org/pdf/2410.20526) 2D UMAP of decoder columns,  Using GPT-4o to describe their top activating samples (the encoder view). 
 
 ---
 
@@ -81,8 +82,3 @@ Materials related to Mechanistic Interpretability using Sparse Autoencoders on L
 - [GitHub of SAE training code](https://github.com/ai-safety-foundation/sparse_autoencoder)
 - [ARENA course and exercises (recommended by Neel)](https://arena-chapter0-fundamentals.streamlit.app/)
 
-### Introduction key points
-- Motivate subject - clear and intuitive distinction between holisitic, aggregated view of L2V vs. detailed, granular exploration of that model. L2V macroscopic <-> SAE microscopic "peer into the DNA of L2V" methaphorically. Uncover nuanced, latent features with meaningful interpretations that govern individual life trajectores (or something along these lines)
-- Anthropic, L2V, need for trust/reliability/safety/alignment of models as they increase in capacity and complexity ➡️ Mechanistic Interpretability goals, definitions, perspective, contrast to post-hoc methods (attention viz, gradient feature attribution, which dont yield mechanistic insights) ➡️ Superposition and polysemantic neurons, disentangling ➡️ How? SAE's; What are they and where do they come from (sparsity) ➡️challenges and related interp methods?
-- Some stuff from L0->L1->L2 norm on the unit circle/rectangle etc in terms of promoting sparsity (shown ive learned this before, more context)
-- 
