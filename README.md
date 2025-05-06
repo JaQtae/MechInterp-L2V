@@ -61,28 +61,26 @@ Materials related to Mechanistic Interpretability using Sparse Autoencoders on L
 | ❎  | **Tracing the Thoughts of a Large Language Model**                                          | *Blog post with links to the two papers by Anthropic [here](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) and [here](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)*                         | [Link](https://www.lesswrong.com/posts/zsr4rWRASxwmgXfmq/tracing-the-thoughts-of-a-large-language-model)     
 | ❎  | **Dario Amodei - Urgency of Interpretability (Blog post)**                                          | *CEO of Anthropic with thoughts (politicized). LessWrong post [here](https://www.lesswrong.com/posts/SebmGh9HYdd8GZtHA/the-urgency-of-interpretability-dario-amodei)*                         | [Link](https://www.darioamodei.com/post/the-urgency-of-interpretability)    
 | ❎  | **Negative Results for SAEs on Downstream Tasks and Deprioritising SAE Research (GoogleDeepMind MechInterp Team Update #2)**                                          | *SAE's are useful but field is possibly overly invested in them (Anthropic). Tried usefulness on downstream task of OOD generalization for harmful intent in user prompts. Underperformed compared to linear probes.*                         | [Link](https://www.lesswrong.com/posts/4uXCAJNuPKtKBsi28/negative-results-for-saes-on-downstream-tasks)   
-| ❎  | **Interpretability Will Not Reliably Find Deceptive AI (Neel Nanda blog)**                                          | *His views reflect that interp is a valuable tool, but will only be one layer in our defence capacity for evaluating or monitoring the safety of super-intelligent systems, given current research paradigm. He **disagrees** with Dario Amodei's recent blog post that it is the only way forward. *                         | [Link](https://www.lesswrong.com/posts/PwnadG4BFjaER3MGf/interpretability-will-not-reliably-find-deceptive-ai)    
+| ❎  | **Interpretability Will Not Reliably Find Deceptive AI (Neel Nanda blog)**                                          | *His views reflect that interp is a valuable tool, but will only be one layer in our defence capacity for evaluating or monitoring the safety of super-intelligent systems, given current research paradigm. He **disagrees** with Dario Amodei's recent blog post that it is the only way forward. *                         | [Link](https://www.lesswrong.com/posts/PwnadG4BFjaER3MGf/interpretability-will-not-reliably-find-deceptive-ai)   
+| ❎  | **LLama Scope: Extracting millions of features from LLama-3.1-8B with Sparse Autoencoders**                                          | *META's equivalent to Gemma Scope above. Has some nice pointers to sizes and method's, e.g. 2D UMAP of decoder columns and difference between an encoder and decoder view of features.*                         | [Link](https://arxiv.org/pdf/2410.20526)    
 ---
 
 ## Additional Buzzwords, Open Questions, and Explorations
 
 - *k*-top SAE, Gated SAE, JumpReLU (per Neel’s suggestions Gated is the way to go? See comments on papers. (Pros/Cons: Resampling, reconstruction vs sparsity, L0-like (L1) or L0 (pseudo-derivative))
-  - Gated SAE's are better than what Anthropic did, because they avoid the bias introduced from L1 w.r.t. harming L2. (Rajamanoharan et al. (2024)) 
+  - Gated SAE's are better than what Anthropic did, because they avoid the bias introduced from L1 w.r.t. harming L2. (Rajamanoharan et al. (2024))
+  - JumpReLU are easier and better? I've heard different things different places...
 - GeLU vs. ReLU: Which activation function works best in practice? (Neel says GeLU...)
 - Measuring SAE performance: What are the most effective evaluation metrics? (Huben email sources, his input is to focus on how you can evaluate the features)
-- Understand Byte-paired tokenization: Find relevant papers and assess its impact. (Used in tokenization?
-- Delve into transformer circuits: How can QK and OV be “decomposed” and “disentangled”?
-- **Open Question:** Does Life2Vec include an MLP? If not, how and where are the neuron activations obtained?
-- Is autointerpretability possible? Is it good? Anyhow, how is it possible to see what maximally activates a specific feature based on input for L2V???
 - [Huben] Check if your features serve as a classifier for an external set of interpretable concepts, see [his work](https://www.lesswrong.com/posts/BduCMgmjJnCtc7jKc/research-report-sparse-autoencoders-find-only-9-180-board), [Karvonen et al.](https://arxiv.org/abs/2408.00113), and [Gao et al., section 4.2](https://arxiv.org/pdf/2406.04093)
 - [Huben] Find a way to represent your features so that their usefulness is immediately visible, see e.g. [his attempt](https://www.lesswrong.com/posts/f7gd7riceJPaPKkNS/saes-you-can-see-applying-sparse-autoencoders-to-clustering) or [Anthropic's graphs](https://transformer-circuits.pub/2024/scaling-monosemanticity/#:~:text=highly%20consistent%20with%20the%20proposed%20interpretation.).
 - [Toy Model Comment] States Linear-Algebra way to deem leverage or "efficiently packing" the dimensionality of all features s.t. empirically they add up to the number of embedding dimensions - he explains why this is natural w.r.t. rank/covariance/lemma from numerical algebra
-- [LLAMA SCOPE: EXTRACTING MILLIONS OF FEATURES FROM LLAMA-3.1-8B WITH SPARSE AUTOENCODERS](https://arxiv.org/pdf/2410.20526) 2D UMAP of decoder columns,  Using GPT-4o to describe their top activating samples (the encoder view). 
+- Evidently, AutoInterp is a problem unto itself, but it cannot be leveraged in this project given the structure of the data, the sensitive nature of its contents, and the code-token mapping being OOD for standard LLM's.
 
 ---
 
 ## SAE Resources
 
 - [GitHub of SAE training code](https://github.com/ai-safety-foundation/sparse_autoencoder)
-- [ARENA course and exercises (recommended by Neel)](https://arena-chapter0-fundamentals.streamlit.app/)
+- [ARENA course and exercises (recommended by Neel)](https://arena-chapter0-fundamentals.streamlit.app/) Although this one only uses modular libraries e.g. TransformerLens and SAELens, so it is not with your own models!!! Super nice for learning though :smile:
 
