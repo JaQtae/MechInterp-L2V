@@ -1,0 +1,1 @@
+This contains all the 512 latents from the SAE trained on the GPT version of the life2vec model. The colours indicate what type of token category it is, while the grey area indicates the binned counts across the activation values. 
