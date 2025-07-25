@@ -1,8 +1,9 @@
 # MSc. Human-Centered Artificial Intelligence, DTU Compute anno 2025
 
-This repository collects papers and resources related to applying the SAE interpretability idea to the Life2Vec model, scrutinizing its inner workings and assessing whether they are indeed interpretable.
+This repository serves as a note-keeping library for papers related to applying SAE in hopes of achieving mechanistic insights into the life2vec model, hopefully uncovering interesting and interpretable features. 
 
 ---
+The following list is not fully updated (25-07-2025) and may very stay as such. I refer you to the thesis references for more in-depth review of relevant material. 
 
 ## Primary Papers
 
